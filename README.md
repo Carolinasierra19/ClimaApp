@@ -1,8 +1,8 @@
 # ClimaApp
 
-Esta es una aplicación de clima creada con Kotlin usando el patrón MVVM.
+Esta es una aplicación de clima
 
 ## Video de Demostración
 
-[![hace click aca](https://img.icons8.com/clouds/100/000000/video.png)](https://github.com/Carolinasierra19/ClimaApp/raw/main/ClimaAppfuncionando.mov)
+[![Video de Demostración](https://img.youtube.com/vi/XNu2fkS-CG0/0.jpg)](https://youtube.com/shorts/XNu2fkS-CG0?feature=share)
 
