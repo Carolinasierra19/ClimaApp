@@ -10,3 +10,11 @@ local.properties
 
 # Ignorar otros archivos generados
 .DS_Store
+
+# Ignorar archivos locales específicos del entorno
+*.iml
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+
