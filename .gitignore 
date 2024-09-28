@@ -1,0 +1,12 @@
+# Ignorar archivos sensibles y de configuración local
+gradle.properties
+local.properties
+
+# Ignorar configuraciones específicas de Android Studio
+.idea/
+
+# Ignorar carpetas de compilación y binarios
+/build/
+
+# Ignorar otros archivos generados
+.DS_Store
